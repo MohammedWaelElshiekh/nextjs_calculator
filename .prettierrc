@@ -1,0 +1,9 @@
+{
+  "arrowParens": "always",
+  "htmlWhitespaceSensitivity": "css",
+  "semi": true,
+  "singleAttributePerLine": true,
+  "tabWidth": 2,
+  "bracketSameLine": true,
+  "jsxSingleQuote": false
+}
